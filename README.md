@@ -12,7 +12,6 @@ Created by Charunthon Limseelo. Supervised by Microsoft Thailand
 ## Advisor and Supporter
 - Tatta Tameeyonk
 - Pancheva Niruttikul
-- Poonyada Phanitpotchamarn
 
 Hi everyone, my name is Boat Charunthon. Welcome to my repository on experimenting Phi3.5 locally with JavaScript and Ollama. In this repository, I will guide you through all installation for running AI on your local device with no internet connection at all.
 
